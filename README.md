@@ -1,3 +1,1 @@
-## This is a portfolio website made using html , css and javascript its a basic frontend 
-
-* live preview [https://rajportfolioexample.netlify.app/]
+## This is a portfolio website made using html , css and javascript. Its basically for my ux and design portfolio purpose.
