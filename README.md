@@ -1,10 +1,6 @@
 # 🌌 Hor1zen — Design & Development Folio
 
 <p align="center">
-  <img src="./assets/images/collective%20banner%20cover%20for%20portfolio.png" alt="Hor1zen Portfolio Banner" width="100%">
-</p>
-
-<p align="center">
   <img src="./assets/images/logo.jpg" alt="Hor1zen Logo" width="100" style="border-radius: 50%">
 </p>
 
