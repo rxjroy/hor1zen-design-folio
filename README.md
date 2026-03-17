@@ -1,4 +1,4 @@
-# 🌌 Hor1zen — Design & Development Folio
+# 🌌 Hor1zen — Design Folio
 
 <p align="center">
   <img src="./assets/images/logo.jpg" alt="Hor1zen Logo" width="100" style="border-radius: 50%">
